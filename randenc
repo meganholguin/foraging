@@ -1,6 +1,6 @@
 embed 
 <drac2>
-gvar = load_json(get_gvar('61c8f0a8-2ba3-4add-bcf4-34667a52f9ce'))
+gvar = load_json(get_gvar('gadfawer'))
 table=gvar.base
 typeRoll=vroll("1d6")
 encounterType = [table[x] for x in table if typeRoll.total<=int(x)] 
