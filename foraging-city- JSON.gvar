@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Healing Potion",
+    "effect": "Restores 50 HP",
+    "cost": 100
+  },
+  {
+    "id": 2,
+    "name": "Mana Potion",
+    "effect": "Restores 50 MP",
+    "cost": 120
+  },
+  {
+    "id": 3,
+    "name": "Elixir of Strength",
+    "effect": "Increases Attack by 10",
+    "cost": 500
+  }
+]
